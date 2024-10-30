@@ -1,11 +1,137 @@
-p{
+.headtxt{
+    position: absolute;
     font-family: 'Aeroport';
+    color: black;
+    font-size: 80px;
+    top: -90px;
+}
+p1{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 180px;
+    top: 134px;
+    left: 334px;
+}
+p2{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 18px;
+    top: 524px;
+    left: 790px;
+}
+p3{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 26px;
+    top: 190px;
+    left: 200px;
+}
+p4{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 28px;
+    top: 234px;
+    left: 200px;
+}
+p5{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 100px;
+    top: 159px;
+    left: 780px;
+}
+p6{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 130px;
+    top: 346px;
+    left: 649px;
+}
+p7{
+    position: absolute;
+    font-family: 'Aeroport Mono';
+    color: black;
+    font-size: 100px;
+    top: 520px;
+    left: 870px;
+}
+p8{
+    position: absolute;
+    font-family: 'Aeroport Mono';
+    color: black;
+    font-size: 130px;
+    top: 709px;
+    left: 660px;
+}
+p9{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 28px;
+    top: 48px;
+    left: 200px;
+}
+p10{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 30px;
+    top: 476px;
+    left: 1210px;
+}
+p11{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 40px;
+    top: 394px;
+}
+p12{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 60px;
+    top: 294px;
+    left: 1388px;
+    transform: rotate(90deg);
+}
+p13{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 60px;
+    top: 555px;
+    left: 1388px;
+    transform: rotate(90deg);
+}
+p14{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 60px;
+    top: 812px;
+    left: 1388px;
+    transform: rotate(90deg);
+}
+p15{
+    position: absolute;
+    font-family: 'Aeroport';
+    color: black;
+    font-size: 30px;
+    top: 200px;
 }
 
-.frames{
+.img{
     display: flex;
-    flex-wrap: wrap;
-    text-align: center;
+    justify-content: center;
+    position: relative;
+    font-size: 0;
 }
 
 
