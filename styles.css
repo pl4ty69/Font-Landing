@@ -1,5 +1,12 @@
 @import "font.css";
 
+.frame{
+    max-width: 1920px;
+    max-height: 1080px;
+    min-width: 1920px;
+    min-height: 1080px;
+}
+
 .headtxt{
     position: absolute;
     font-family: 'Aeroport';
@@ -13,22 +20,22 @@ p1{
     color: black;
     font-size: 180px;
     top: 134px;
-    left: 334px;
+    left: 344px;
 }
 p2{
     position: absolute;
     font-family: 'Aeroport';
     color: black;
     font-size: 18px;
-    top: 524px;
-    left: 790px;
+    top: 536px;
+    left: 806px;
 }
 p3{
     position: absolute;
     font-family: 'Aeroport';
     color: black;
     font-size: 26px;
-    top: 190px;
+    top: 194px;
     left: 200px;
 }
 p4{
@@ -36,7 +43,7 @@ p4{
     font-family: 'Aeroport';
     color: black;
     font-size: 28px;
-    top: 234px;
+    top: 238px;
     left: 200px;
 }
 p5{
@@ -76,7 +83,7 @@ p9{
     font-family: 'Aeroport';
     color: black;
     font-size: 28px;
-    top: 48px;
+    top: 50px;
     left: 200px;
 }
 p10{
@@ -84,23 +91,23 @@ p10{
     font-family: 'Aeroport';
     color: black;
     font-size: 30px;
-    top: 476px;
-    left: 1210px;
+    top: 486px;
+    left: 1228px;
 }
 p11{
     position: absolute;
     font-family: 'Aeroport';
     color: black;
     font-size: 40px;
-    top: 394px;
+    top: 404px;
 }
 p12{
     position: absolute;
     font-family: 'Aeroport';
     color: black;
     font-size: 60px;
-    top: 294px;
-    left: 1388px;
+    top: 300px;
+    left: 1410px;
     transform: rotate(90deg);
 }
 p13{
@@ -108,8 +115,8 @@ p13{
     font-family: 'Aeroport';
     color: black;
     font-size: 60px;
-    top: 555px;
-    left: 1388px;
+    top: 564px;
+    left: 1410px;
     transform: rotate(90deg);
 }
 p14{
@@ -117,8 +124,8 @@ p14{
     font-family: 'Aeroport';
     color: black;
     font-size: 60px;
-    top: 812px;
-    left: 1388px;
+    top: 824px;
+    left: 1410px;
     transform: rotate(90deg);
 }
 p15{
